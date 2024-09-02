@@ -1,0 +1,548 @@
+2024-09-02 13:07:44,161 - INFO - Classes presentes em 1986.tif: [  0  36  73 109 182 255]
+2024-09-02 13:07:44,257 - INFO - Métricas de Fragmentação para 1986.tif:
+2024-09-02 13:07:44,257 - INFO - Número de áreas fragmentadas: 128,682
+2024-09-02 13:07:44,257 - INFO - Área total (px): 6,575,654 pixels
+2024-09-02 13:07:44,257 - INFO - Área total (m²): 896,626,848 m²
+2024-09-02 13:07:44,257 - INFO - Porcentagem de fragmentação: 1.96%
+2024-09-02 13:07:44,445 - INFO - Classes presentes em 1986: [  0   9  33  78 148 255]
+2024-09-02 13:07:44,644 - INFO - Classes presentes em 1987.tif: [  0  36  73 109 146 182 255]
+2024-09-02 13:07:44,740 - INFO - Métricas de Fragmentação para 1987.tif:
+2024-09-02 13:07:44,740 - INFO - Número de áreas fragmentadas: 130,377
+2024-09-02 13:07:44,740 - INFO - Área total (px): 6,461,889 pixels
+2024-09-02 13:07:44,740 - INFO - Área total (m²): 1,749,425,040 m²
+2024-09-02 13:07:44,740 - INFO - Porcentagem de fragmentação: 2.02%
+2024-09-02 13:07:44,959 - INFO - Classes presentes em 1987: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:45,268 - INFO - Classes presentes em 1988.tif: [  0  36  73 109 146 182 255]
+2024-09-02 13:07:45,372 - INFO - Métricas de Fragmentação para 1988.tif:
+2024-09-02 13:07:45,372 - INFO - Número de áreas fragmentadas: 134,319
+2024-09-02 13:07:45,372 - INFO - Área total (px): 6,295,771 pixels
+2024-09-02 13:07:45,372 - INFO - Área total (m²): 316,293,072 m²
+2024-09-02 13:07:45,372 - INFO - Porcentagem de fragmentação: 2.13%
+2024-09-02 13:07:45,588 - INFO - Classes presentes em 1988: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:45,807 - INFO - Classes presentes em 1989.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:45,903 - INFO - Métricas de Fragmentação para 1989.tif:
+2024-09-02 13:07:45,903 - INFO - Número de áreas fragmentadas: 139,558
+2024-09-02 13:07:45,903 - INFO - Área total (px): 6,141,172 pixels
+2024-09-02 13:07:45,903 - INFO - Área total (m²): 1,345,301,184 m²
+2024-09-02 13:07:45,903 - INFO - Porcentagem de fragmentação: 2.27%
+2024-09-02 13:07:46,087 - INFO - Classes presentes em 1989: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:46,326 - INFO - Classes presentes em 1990.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:46,425 - INFO - Métricas de Fragmentação para 1990.tif:
+2024-09-02 13:07:46,425 - INFO - Número de áreas fragmentadas: 143,678
+2024-09-02 13:07:46,425 - INFO - Área total (px): 6,006,073 pixels
+2024-09-02 13:07:46,425 - INFO - Área total (m²): 619,309,296 m²
+2024-09-02 13:07:46,425 - INFO - Porcentagem de fragmentação: 2.39%
+2024-09-02 13:07:46,617 - INFO - Classes presentes em 1990: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:46,830 - INFO - Classes presentes em 1991.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:46,928 - INFO - Métricas de Fragmentação para 1991.tif:
+2024-09-02 13:07:46,928 - INFO - Número de áreas fragmentadas: 146,766
+2024-09-02 13:07:46,928 - INFO - Área total (px): 5,898,534 pixels
+2024-09-02 13:07:46,928 - INFO - Área total (m²): 1,707,884,704 m²
+2024-09-02 13:07:46,928 - INFO - Porcentagem de fragmentação: 2.49%
+2024-09-02 13:07:47,149 - INFO - Classes presentes em 1991: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:47,356 - INFO - Classes presentes em 1992.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:47,455 - INFO - Métricas de Fragmentação para 1992.tif:
+2024-09-02 13:07:47,455 - INFO - Número de áreas fragmentadas: 148,942
+2024-09-02 13:07:47,455 - INFO - Área total (px): 5,797,898 pixels
+2024-09-02 13:07:47,455 - INFO - Área total (m²): 2,119,777,184 m²
+2024-09-02 13:07:47,455 - INFO - Porcentagem de fragmentação: 2.57%
+2024-09-02 13:07:47,649 - INFO - Classes presentes em 1992: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:47,874 - INFO - Classes presentes em 1993.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:47,966 - INFO - Métricas de Fragmentação para 1993.tif:
+2024-09-02 13:07:47,966 - INFO - Número de áreas fragmentadas: 151,407
+2024-09-02 13:07:47,966 - INFO - Área total (px): 5,706,778 pixels
+2024-09-02 13:07:47,966 - INFO - Área total (m²): 1,786,055,520 m²
+2024-09-02 13:07:47,966 - INFO - Porcentagem de fragmentação: 2.65%
+2024-09-02 13:07:48,154 - INFO - Classes presentes em 1993: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:48,349 - INFO - Classes presentes em 1994.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:48,461 - INFO - Métricas de Fragmentação para 1994.tif:
+2024-09-02 13:07:48,461 - INFO - Número de áreas fragmentadas: 153,681
+2024-09-02 13:07:48,461 - INFO - Área total (px): 5,629,369 pixels
+2024-09-02 13:07:48,461 - INFO - Área total (m²): 162,930,928 m²
+2024-09-02 13:07:48,461 - INFO - Porcentagem de fragmentação: 2.73%
+2024-09-02 13:07:48,655 - INFO - Classes presentes em 1994: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:48,852 - INFO - Classes presentes em 1995.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:48,941 - INFO - Métricas de Fragmentação para 1995.tif:
+2024-09-02 13:07:48,941 - INFO - Número de áreas fragmentadas: 155,777
+2024-09-02 13:07:48,941 - INFO - Área total (px): 5,558,193 pixels
+2024-09-02 13:07:48,941 - INFO - Área total (m²): 2,021,163,664 m²
+2024-09-02 13:07:48,941 - INFO - Porcentagem de fragmentação: 2.80%
+2024-09-02 13:07:49,157 - INFO - Classes presentes em 1995: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:49,357 - INFO - Classes presentes em 1996.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:49,452 - INFO - Métricas de Fragmentação para 1996.tif:
+2024-09-02 13:07:49,453 - INFO - Número de áreas fragmentadas: 157,951
+2024-09-02 13:07:49,453 - INFO - Área total (px): 5,487,925 pixels
+2024-09-02 13:07:49,453 - INFO - Área total (m²): 7,989,040 m²
+2024-09-02 13:07:49,453 - INFO - Porcentagem de fragmentação: 2.88%
+2024-09-02 13:07:49,643 - INFO - Classes presentes em 1996: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:49,869 - INFO - Classes presentes em 1997.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:49,962 - INFO - Métricas de Fragmentação para 1997.tif:
+2024-09-02 13:07:49,962 - INFO - Número de áreas fragmentadas: 159,700
+2024-09-02 13:07:49,962 - INFO - Área total (px): 5,433,150 pixels
+2024-09-02 13:07:49,962 - INFO - Área total (m²): 642,771,744 m²
+2024-09-02 13:07:49,962 - INFO - Porcentagem de fragmentação: 2.94%
+2024-09-02 13:07:50,156 - INFO - Classes presentes em 1997: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:50,360 - INFO - Classes presentes em 1998.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:50,458 - INFO - Métricas de Fragmentação para 1998.tif:
+2024-09-02 13:07:50,458 - INFO - Número de áreas fragmentadas: 161,355
+2024-09-02 13:07:50,458 - INFO - Área total (px): 5,371,413 pixels
+2024-09-02 13:07:50,458 - INFO - Área total (m²): 1,904,134,448 m²
+2024-09-02 13:07:50,458 - INFO - Porcentagem de fragmentação: 3.00%
+2024-09-02 13:07:50,664 - INFO - Classes presentes em 1998: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:50,873 - INFO - Classes presentes em 1999.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:50,963 - INFO - Métricas de Fragmentação para 1999.tif:
+2024-09-02 13:07:50,963 - INFO - Número de áreas fragmentadas: 163,437
+2024-09-02 13:07:50,963 - INFO - Área total (px): 5,313,784 pixels
+2024-09-02 13:07:50,963 - INFO - Área total (m²): 1,499,190,144 m²
+2024-09-02 13:07:50,963 - INFO - Porcentagem de fragmentação: 3.08%
+2024-09-02 13:07:51,181 - INFO - Classes presentes em 1999: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:51,385 - INFO - Classes presentes em 2000.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:51,479 - INFO - Métricas de Fragmentação para 2000.tif:
+2024-09-02 13:07:51,479 - INFO - Número de áreas fragmentadas: 165,021
+2024-09-02 13:07:51,479 - INFO - Área total (px): 5,250,118 pixels
+2024-09-02 13:07:51,479 - INFO - Área total (m²): 64,217,440 m²
+2024-09-02 13:07:51,479 - INFO - Porcentagem de fragmentação: 3.14%
+2024-09-02 13:07:51,684 - INFO - Classes presentes em 2000: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:51,908 - INFO - Classes presentes em 2001.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:52,000 - INFO - Métricas de Fragmentação para 2001.tif:
+2024-09-02 13:07:52,000 - INFO - Número de áreas fragmentadas: 166,516
+2024-09-02 13:07:52,001 - INFO - Área total (px): 5,178,923 pixels
+2024-09-02 13:07:52,001 - INFO - Área total (m²): 2,048,365,264 m²
+2024-09-02 13:07:52,001 - INFO - Porcentagem de fragmentação: 3.22%
+2024-09-02 13:07:52,199 - INFO - Classes presentes em 2001: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:52,440 - INFO - Classes presentes em 2002.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:52,531 - INFO - Métricas de Fragmentação para 2002.tif:
+2024-09-02 13:07:52,531 - INFO - Número de áreas fragmentadas: 167,956
+2024-09-02 13:07:52,531 - INFO - Área total (px): 5,114,532 pixels
+2024-09-02 13:07:52,531 - INFO - Área total (m²): 746,379,328 m²
+2024-09-02 13:07:52,531 - INFO - Porcentagem de fragmentação: 3.28%
+2024-09-02 13:07:52,730 - INFO - Classes presentes em 2002: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:52,946 - INFO - Classes presentes em 2003.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:53,068 - INFO - Métricas de Fragmentação para 2003.tif:
+2024-09-02 13:07:53,068 - INFO - Número de áreas fragmentadas: 169,415
+2024-09-02 13:07:53,068 - INFO - Área total (px): 5,049,836 pixels
+2024-09-02 13:07:53,068 - INFO - Área total (m²): 781,293,376 m²
+2024-09-02 13:07:53,068 - INFO - Porcentagem de fragmentação: 3.35%
+2024-09-02 13:07:53,272 - INFO - Classes presentes em 2003: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:53,480 - INFO - Classes presentes em 2004.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:53,571 - INFO - Métricas de Fragmentação para 2004.tif:
+2024-09-02 13:07:53,571 - INFO - Número de áreas fragmentadas: 170,957
+2024-09-02 13:07:53,571 - INFO - Área total (px): 4,982,441 pixels
+2024-09-02 13:07:53,572 - INFO - Área total (m²): 1,743,091,216 m²
+2024-09-02 13:07:53,572 - INFO - Porcentagem de fragmentação: 3.43%
+2024-09-02 13:07:53,803 - INFO - Classes presentes em 2004: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:54,009 - INFO - Classes presentes em 2005.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:54,102 - INFO - Métricas de Fragmentação para 2005.tif:
+2024-09-02 13:07:54,102 - INFO - Número de áreas fragmentadas: 172,144
+2024-09-02 13:07:54,103 - INFO - Área total (px): 4,919,641 pixels
+2024-09-02 13:07:54,103 - INFO - Área total (m²): 386,058,512 m²
+2024-09-02 13:07:54,103 - INFO - Porcentagem de fragmentação: 3.50%
+2024-09-02 13:07:54,299 - INFO - Classes presentes em 2005: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:54,550 - INFO - Classes presentes em 2006.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:54,644 - INFO - Métricas de Fragmentação para 2006.tif:
+2024-09-02 13:07:54,644 - INFO - Número de áreas fragmentadas: 173,771
+2024-09-02 13:07:54,644 - INFO - Área total (px): 4,865,651 pixels
+2024-09-02 13:07:54,644 - INFO - Área total (m²): 178,074,192 m²
+2024-09-02 13:07:54,644 - INFO - Porcentagem de fragmentação: 3.57%
+2024-09-02 13:07:54,852 - INFO - Classes presentes em 2006: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:55,095 - INFO - Classes presentes em 2007.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:55,190 - INFO - Métricas de Fragmentação para 2007.tif:
+2024-09-02 13:07:55,191 - INFO - Número de áreas fragmentadas: 175,198
+2024-09-02 13:07:55,191 - INFO - Área total (px): 4,811,941 pixels
+2024-09-02 13:07:55,191 - INFO - Área total (m²): 717,006,896 m²
+2024-09-02 13:07:55,191 - INFO - Porcentagem de fragmentação: 3.64%
+2024-09-02 13:07:55,389 - INFO - Classes presentes em 2007: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:55,599 - INFO - Classes presentes em 2008.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:55,731 - INFO - Métricas de Fragmentação para 2008.tif:
+2024-09-02 13:07:55,731 - INFO - Número de áreas fragmentadas: 176,135
+2024-09-02 13:07:55,731 - INFO - Área total (px): 4,765,489 pixels
+2024-09-02 13:07:55,731 - INFO - Área total (m²): 602,719,600 m²
+2024-09-02 13:07:55,731 - INFO - Porcentagem de fragmentação: 3.70%
+2024-09-02 13:07:55,939 - INFO - Classes presentes em 2008: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:56,161 - INFO - Classes presentes em 2009.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:56,261 - INFO - Métricas de Fragmentação para 2009.tif:
+2024-09-02 13:07:56,261 - INFO - Número de áreas fragmentadas: 177,303
+2024-09-02 13:07:56,261 - INFO - Área total (px): 4,720,578 pixels
+2024-09-02 13:07:56,261 - INFO - Área total (m²): 349,742,304 m²
+2024-09-02 13:07:56,261 - INFO - Porcentagem de fragmentação: 3.76%
+2024-09-02 13:07:56,491 - INFO - Classes presentes em 2009: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:56,701 - INFO - Classes presentes em 2010.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:56,789 - INFO - Métricas de Fragmentação para 2010.tif:
+2024-09-02 13:07:56,789 - INFO - Número de áreas fragmentadas: 178,360
+2024-09-02 13:07:56,789 - INFO - Área total (px): 4,683,659 pixels
+2024-09-02 13:07:56,789 - INFO - Área total (m²): 622,514,992 m²
+2024-09-02 13:07:56,789 - INFO - Porcentagem de fragmentação: 3.81%
+2024-09-02 13:07:56,982 - INFO - Classes presentes em 2010: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:57,215 - INFO - Classes presentes em 2011.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:57,318 - INFO - Métricas de Fragmentação para 2011.tif:
+2024-09-02 13:07:57,318 - INFO - Número de áreas fragmentadas: 179,555
+2024-09-02 13:07:57,318 - INFO - Área total (px): 4,640,329 pixels
+2024-09-02 13:07:57,318 - INFO - Área total (m²): 1,017,782,288 m²
+2024-09-02 13:07:57,318 - INFO - Porcentagem de fragmentação: 3.87%
+2024-09-02 13:07:57,668 - INFO - Classes presentes em 2011: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:57,909 - INFO - Classes presentes em 2012.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:58,003 - INFO - Métricas de Fragmentação para 2012.tif:
+2024-09-02 13:07:58,003 - INFO - Número de áreas fragmentadas: 180,824
+2024-09-02 13:07:58,003 - INFO - Área total (px): 4,596,262 pixels
+2024-09-02 13:07:58,003 - INFO - Área total (m²): 1,346,719,584 m²
+2024-09-02 13:07:58,003 - INFO - Porcentagem de fragmentação: 3.93%
+2024-09-02 13:07:58,202 - INFO - Classes presentes em 2012: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:58,409 - INFO - Classes presentes em 2013.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:58,519 - INFO - Métricas de Fragmentação para 2013.tif:
+2024-09-02 13:07:58,519 - INFO - Número de áreas fragmentadas: 181,640
+2024-09-02 13:07:58,519 - INFO - Área total (px): 4,544,407 pixels
+2024-09-02 13:07:58,519 - INFO - Área total (m²): 974,736,880 m²
+2024-09-02 13:07:58,519 - INFO - Porcentagem de fragmentação: 4.00%
+2024-09-02 13:07:58,718 - INFO - Classes presentes em 2013: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:58,920 - INFO - Classes presentes em 2014.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:59,009 - INFO - Métricas de Fragmentação para 2014.tif:
+2024-09-02 13:07:59,010 - INFO - Número de áreas fragmentadas: 182,504
+2024-09-02 13:07:59,010 - INFO - Área total (px): 4,499,985 pixels
+2024-09-02 13:07:59,010 - INFO - Área total (m²): 1,271,724,176 m²
+2024-09-02 13:07:59,010 - INFO - Porcentagem de fragmentação: 4.06%
+2024-09-02 13:07:59,224 - INFO - Classes presentes em 2014: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:59,438 - INFO - Classes presentes em 2015.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:07:59,530 - INFO - Métricas de Fragmentação para 2015.tif:
+2024-09-02 13:07:59,530 - INFO - Número de áreas fragmentadas: 183,179
+2024-09-02 13:07:59,530 - INFO - Área total (px): 4,457,912 pixels
+2024-09-02 13:07:59,530 - INFO - Área total (m²): 1,780,121,472 m²
+2024-09-02 13:07:59,530 - INFO - Porcentagem de fragmentação: 4.11%
+2024-09-02 13:07:59,729 - INFO - Classes presentes em 2015: [  0   9  33  78 148 227 255]
+2024-09-02 13:07:59,956 - INFO - Classes presentes em 2016.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:08:00,043 - INFO - Métricas de Fragmentação para 2016.tif:
+2024-09-02 13:08:00,043 - INFO - Número de áreas fragmentadas: 184,030
+2024-09-02 13:08:00,043 - INFO - Área total (px): 4,421,261 pixels
+2024-09-02 13:08:00,043 - INFO - Área total (m²): 1,518,468,528 m²
+2024-09-02 13:08:00,043 - INFO - Porcentagem de fragmentação: 4.16%
+2024-09-02 13:08:00,275 - INFO - Classes presentes em 2016: [  0   9  33  78 148 227 255]
+2024-09-02 13:08:00,652 - INFO - Classes presentes em 2017.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:08:00,756 - INFO - Métricas de Fragmentação para 2017.tif:
+2024-09-02 13:08:00,756 - INFO - Número de áreas fragmentadas: 185,022
+2024-09-02 13:08:00,756 - INFO - Área total (px): 4,384,288 pixels
+2024-09-02 13:08:00,756 - INFO - Área total (m²): 551,071,232 m²
+2024-09-02 13:08:00,756 - INFO - Porcentagem de fragmentação: 4.22%
+2024-09-02 13:08:00,981 - INFO - Classes presentes em 2017: [  0   9  33  78 148 227 255]
+2024-09-02 13:08:01,193 - INFO - Classes presentes em 2018.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:08:01,281 - INFO - Métricas de Fragmentação para 2018.tif:
+2024-09-02 13:08:01,281 - INFO - Número de áreas fragmentadas: 186,448
+2024-09-02 13:08:01,281 - INFO - Área total (px): 4,341,828 pixels
+2024-09-02 13:08:01,281 - INFO - Área total (m²): 77,503,936 m²
+2024-09-02 13:08:01,281 - INFO - Porcentagem de fragmentação: 4.29%
+2024-09-02 13:08:01,478 - INFO - Classes presentes em 2018: [  0   9  33  78 148 227 255]
+2024-09-02 13:08:01,711 - INFO - Classes presentes em 2019.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:08:01,801 - INFO - Métricas de Fragmentação para 2019.tif:
+2024-09-02 13:08:01,801 - INFO - Número de áreas fragmentadas: 186,816
+2024-09-02 13:08:01,801 - INFO - Área total (px): 4,297,732 pixels
+2024-09-02 13:08:01,801 - INFO - Área total (m²): 248,823,360 m²
+2024-09-02 13:08:01,801 - INFO - Porcentagem de fragmentação: 4.35%
+2024-09-02 13:08:02,001 - INFO - Classes presentes em 2019: [  0   9  33  78 148 227 255]
+2024-09-02 13:08:02,224 - INFO - Classes presentes em 2020.tif: [  0  36  73 109 146 182 219 255]
+2024-09-02 13:08:02,318 - INFO - Métricas de Fragmentação para 2020.tif:
+2024-09-02 13:08:02,318 - INFO - Número de áreas fragmentadas: 187,263
+2024-09-02 13:08:02,318 - INFO - Área total (px): 4,277,551 pixels
+2024-09-02 13:08:02,318 - INFO - Área total (m²): 1,567,466,640 m²
+2024-09-02 13:08:02,318 - INFO - Porcentagem de fragmentação: 4.38%
+2024-09-02 13:08:02,536 - INFO - Classes presentes em 2020: [  0   9  33  78 148 227 255]
+2024-09-02 13:08:02,751 - INFO - Classes presentes em 2021.tif: [  0  36  73 109 146 219 255]
+2024-09-02 13:08:02,839 - INFO - Métricas de Fragmentação para 2021.tif:
+2024-09-02 13:08:02,839 - INFO - Número de áreas fragmentadas: 187,818
+2024-09-02 13:08:02,839 - INFO - Área total (px): 4,267,192 pixels
+2024-09-02 13:08:02,839 - INFO - Área total (m²): 1,795,190,656 m²
+2024-09-02 13:08:02,839 - INFO - Porcentagem de fragmentação: 4.40%
+2024-09-02 13:08:03,115 - INFO - Classes presentes em 2021: [  0   9  33  78 227 255]
+2024-09-02 13:08:59,034 - INFO - Métricas de Fragmentação 1986:
+2024-09-02 13:08:59,035 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:08:59,035 - INFO - Métricas de Fragmentação 1987:
+2024-09-02 13:08:59,035 - INFO - Número de fragmentos: 130377, Área total: 6461889 pixels
+2024-09-02 13:08:59,035 - INFO - Diferença no número de fragmentos (1987 - 1986): 130377
+2024-09-02 13:08:59,117 - INFO - Áreas identificadas com aumento significativo em 1987: 6461889 pixels
+2024-09-02 13:09:00,417 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_1986_1987.png
+2024-09-02 13:09:00,604 - INFO - Métricas de Fragmentação 1987:
+2024-09-02 13:09:00,604 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:00,604 - INFO - Métricas de Fragmentação 1988:
+2024-09-02 13:09:00,604 - INFO - Número de fragmentos: 134319, Área total: 6295771 pixels
+2024-09-02 13:09:00,604 - INFO - Diferença no número de fragmentos (1988 - 1987): 134319
+2024-09-02 13:09:00,684 - INFO - Áreas identificadas com aumento significativo em 1988: 6295771 pixels
+2024-09-02 13:09:01,960 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_1987_1988.png
+2024-09-02 13:09:02,184 - INFO - Métricas de Fragmentação 1988:
+2024-09-02 13:09:02,184 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:02,184 - INFO - Métricas de Fragmentação 1989:
+2024-09-02 13:09:02,184 - INFO - Número de fragmentos: 139558, Área total: 6141172 pixels
+2024-09-02 13:09:02,184 - INFO - Diferença no número de fragmentos (1989 - 1988): 139558
+2024-09-02 13:09:02,265 - INFO - Áreas identificadas com aumento significativo em 1989: 6141172 pixels
+2024-09-02 13:09:03,546 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_1988_1989.png
+2024-09-02 13:09:03,734 - INFO - Métricas de Fragmentação 1989:
+2024-09-02 13:09:03,734 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:03,734 - INFO - Métricas de Fragmentação 1990:
+2024-09-02 13:09:03,734 - INFO - Número de fragmentos: 143678, Área total: 6006073 pixels
+2024-09-02 13:09:03,734 - INFO - Diferença no número de fragmentos (1990 - 1989): 143678
+2024-09-02 13:09:03,817 - INFO - Áreas identificadas com aumento significativo em 1990: 6006073 pixels
+2024-09-02 13:09:05,095 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_1989_1990.png
+2024-09-02 13:09:08,184 - INFO - Métricas de Fragmentação 1990:
+2024-09-02 13:09:08,184 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:08,185 - INFO - Métricas de Fragmentação 1991:
+2024-09-02 13:09:08,185 - INFO - Número de fragmentos: 146766, Área total: 5898534 pixels
+2024-09-02 13:09:08,185 - INFO - Diferença no número de fragmentos (1991 - 1990): 146766
+2024-09-02 13:09:08,282 - INFO - Áreas identificadas com aumento significativo em 1991: 5898534 pixels
+2024-09-02 13:09:09,691 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_1990_1991.png
+2024-09-02 13:09:09,883 - INFO - Métricas de Fragmentação 1991:
+2024-09-02 13:09:09,884 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:09,884 - INFO - Métricas de Fragmentação 1992:
+2024-09-02 13:09:09,884 - INFO - Número de fragmentos: 148942, Área total: 5797898 pixels
+2024-09-02 13:09:09,884 - INFO - Diferença no número de fragmentos (1992 - 1991): 148942
+2024-09-02 13:09:09,964 - INFO - Áreas identificadas com aumento significativo em 1992: 5797898 pixels
+2024-09-02 13:09:11,205 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_1991_1992.png
+2024-09-02 13:09:11,395 - INFO - Métricas de Fragmentação 1992:
+2024-09-02 13:09:11,395 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:11,395 - INFO - Métricas de Fragmentação 1993:
+2024-09-02 13:09:11,395 - INFO - Número de fragmentos: 151407, Área total: 5706778 pixels
+2024-09-02 13:09:11,396 - INFO - Diferença no número de fragmentos (1993 - 1992): 151407
+2024-09-02 13:09:11,476 - INFO - Áreas identificadas com aumento significativo em 1993: 5706778 pixels
+2024-09-02 13:09:12,790 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_1992_1993.png
+2024-09-02 13:09:13,020 - INFO - Métricas de Fragmentação 1993:
+2024-09-02 13:09:13,020 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:13,020 - INFO - Métricas de Fragmentação 1994:
+2024-09-02 13:09:13,020 - INFO - Número de fragmentos: 153681, Área total: 5629369 pixels
+2024-09-02 13:09:13,020 - INFO - Diferença no número de fragmentos (1994 - 1993): 153681
+2024-09-02 13:09:13,103 - INFO - Áreas identificadas com aumento significativo em 1994: 5629369 pixels
+2024-09-02 13:09:14,374 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_1993_1994.png
+2024-09-02 13:09:17,377 - INFO - Métricas de Fragmentação 1994:
+2024-09-02 13:09:17,377 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:17,377 - INFO - Métricas de Fragmentação 1995:
+2024-09-02 13:09:17,377 - INFO - Número de fragmentos: 155777, Área total: 5558193 pixels
+2024-09-02 13:09:17,377 - INFO - Diferença no número de fragmentos (1995 - 1994): 155777
+2024-09-02 13:09:17,466 - INFO - Áreas identificadas com aumento significativo em 1995: 5558193 pixels
+2024-09-02 13:09:18,816 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_1994_1995.png
+2024-09-02 13:09:19,007 - INFO - Métricas de Fragmentação 1995:
+2024-09-02 13:09:19,008 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:19,008 - INFO - Métricas de Fragmentação 1996:
+2024-09-02 13:09:19,008 - INFO - Número de fragmentos: 157951, Área total: 5487925 pixels
+2024-09-02 13:09:19,008 - INFO - Diferença no número de fragmentos (1996 - 1995): 157951
+2024-09-02 13:09:19,088 - INFO - Áreas identificadas com aumento significativo em 1996: 5487925 pixels
+2024-09-02 13:09:20,374 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_1995_1996.png
+2024-09-02 13:09:20,602 - INFO - Métricas de Fragmentação 1996:
+2024-09-02 13:09:20,602 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:20,602 - INFO - Métricas de Fragmentação 1997:
+2024-09-02 13:09:20,602 - INFO - Número de fragmentos: 159700, Área total: 5433150 pixels
+2024-09-02 13:09:20,602 - INFO - Diferença no número de fragmentos (1997 - 1996): 159700
+2024-09-02 13:09:20,692 - INFO - Áreas identificadas com aumento significativo em 1997: 5433150 pixels
+2024-09-02 13:09:21,958 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_1996_1997.png
+2024-09-02 13:09:22,153 - INFO - Métricas de Fragmentação 1997:
+2024-09-02 13:09:22,154 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:22,154 - INFO - Métricas de Fragmentação 1998:
+2024-09-02 13:09:22,154 - INFO - Número de fragmentos: 161355, Área total: 5371413 pixels
+2024-09-02 13:09:22,154 - INFO - Diferença no número de fragmentos (1998 - 1997): 161355
+2024-09-02 13:09:22,237 - INFO - Áreas identificadas com aumento significativo em 1998: 5371413 pixels
+2024-09-02 13:09:23,684 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_1997_1998.png
+2024-09-02 13:09:26,764 - INFO - Métricas de Fragmentação 1998:
+2024-09-02 13:09:26,764 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:26,764 - INFO - Métricas de Fragmentação 1999:
+2024-09-02 13:09:26,764 - INFO - Número de fragmentos: 163437, Área total: 5313784 pixels
+2024-09-02 13:09:26,764 - INFO - Diferença no número de fragmentos (1999 - 1998): 163437
+2024-09-02 13:09:26,850 - INFO - Áreas identificadas com aumento significativo em 1999: 5313784 pixels
+2024-09-02 13:09:28,144 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_1998_1999.png
+2024-09-02 13:09:28,334 - INFO - Métricas de Fragmentação 1999:
+2024-09-02 13:09:28,334 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:28,334 - INFO - Métricas de Fragmentação 2000:
+2024-09-02 13:09:28,334 - INFO - Número de fragmentos: 165021, Área total: 5250118 pixels
+2024-09-02 13:09:28,334 - INFO - Diferença no número de fragmentos (2000 - 1999): 165021
+2024-09-02 13:09:28,417 - INFO - Áreas identificadas com aumento significativo em 2000: 5250118 pixels
+2024-09-02 13:09:29,663 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_1999_2000.png
+2024-09-02 13:09:29,879 - INFO - Métricas de Fragmentação 2000:
+2024-09-02 13:09:29,879 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:29,879 - INFO - Métricas de Fragmentação 2001:
+2024-09-02 13:09:29,879 - INFO - Número de fragmentos: 166516, Área total: 5178923 pixels
+2024-09-02 13:09:29,879 - INFO - Diferença no número de fragmentos (2001 - 2000): 166516
+2024-09-02 13:09:29,961 - INFO - Áreas identificadas com aumento significativo em 2001: 5178923 pixels
+2024-09-02 13:09:31,214 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_2000_2001.png
+2024-09-02 13:09:31,414 - INFO - Métricas de Fragmentação 2001:
+2024-09-02 13:09:31,414 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:31,414 - INFO - Métricas de Fragmentação 2002:
+2024-09-02 13:09:31,414 - INFO - Número de fragmentos: 167956, Área total: 5114532 pixels
+2024-09-02 13:09:31,414 - INFO - Diferença no número de fragmentos (2002 - 2001): 167956
+2024-09-02 13:09:31,495 - INFO - Áreas identificadas com aumento significativo em 2002: 5114532 pixels
+2024-09-02 13:09:32,728 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_2001_2002.png
+2024-09-02 13:09:35,632 - INFO - Métricas de Fragmentação 2002:
+2024-09-02 13:09:35,632 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:35,632 - INFO - Métricas de Fragmentação 2003:
+2024-09-02 13:09:35,632 - INFO - Número de fragmentos: 169415, Área total: 5049836 pixels
+2024-09-02 13:09:35,632 - INFO - Diferença no número de fragmentos (2003 - 2002): 169415
+2024-09-02 13:09:35,718 - INFO - Áreas identificadas com aumento significativo em 2003: 5049836 pixels
+2024-09-02 13:09:37,084 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_2002_2003.png
+2024-09-02 13:09:37,271 - INFO - Métricas de Fragmentação 2003:
+2024-09-02 13:09:37,271 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:37,271 - INFO - Métricas de Fragmentação 2004:
+2024-09-02 13:09:37,271 - INFO - Número de fragmentos: 170957, Área total: 4982441 pixels
+2024-09-02 13:09:37,271 - INFO - Diferença no número de fragmentos (2004 - 2003): 170957
+2024-09-02 13:09:37,383 - INFO - Áreas identificadas com aumento significativo em 2004: 4982441 pixels
+2024-09-02 13:09:38,670 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_2003_2004.png
+2024-09-02 13:09:38,921 - INFO - Métricas de Fragmentação 2004:
+2024-09-02 13:09:38,921 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:38,921 - INFO - Métricas de Fragmentação 2005:
+2024-09-02 13:09:38,921 - INFO - Número de fragmentos: 172144, Área total: 4919641 pixels
+2024-09-02 13:09:38,921 - INFO - Diferença no número de fragmentos (2005 - 2004): 172144
+2024-09-02 13:09:39,010 - INFO - Áreas identificadas com aumento significativo em 2005: 4919641 pixels
+2024-09-02 13:09:40,298 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_2004_2005.png
+2024-09-02 13:09:40,495 - INFO - Métricas de Fragmentação 2005:
+2024-09-02 13:09:40,495 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:40,495 - INFO - Métricas de Fragmentação 2006:
+2024-09-02 13:09:40,495 - INFO - Número de fragmentos: 173771, Área total: 4865651 pixels
+2024-09-02 13:09:40,495 - INFO - Diferença no número de fragmentos (2006 - 2005): 173771
+2024-09-02 13:09:40,580 - INFO - Áreas identificadas com aumento significativo em 2006: 4865651 pixels
+2024-09-02 13:09:41,948 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_2005_2006.png
+2024-09-02 13:09:45,301 - INFO - Métricas de Fragmentação 2006:
+2024-09-02 13:09:45,301 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:45,301 - INFO - Métricas de Fragmentação 2007:
+2024-09-02 13:09:45,301 - INFO - Número de fragmentos: 175198, Área total: 4811941 pixels
+2024-09-02 13:09:45,301 - INFO - Diferença no número de fragmentos (2007 - 2006): 175198
+2024-09-02 13:09:45,416 - INFO - Áreas identificadas com aumento significativo em 2007: 4811941 pixels
+2024-09-02 13:09:47,020 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_2006_2007.png
+2024-09-02 13:09:47,246 - INFO - Métricas de Fragmentação 2007:
+2024-09-02 13:09:47,246 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:47,246 - INFO - Métricas de Fragmentação 2008:
+2024-09-02 13:09:47,246 - INFO - Número de fragmentos: 176135, Área total: 4765489 pixels
+2024-09-02 13:09:47,246 - INFO - Diferença no número de fragmentos (2008 - 2007): 176135
+2024-09-02 13:09:47,341 - INFO - Áreas identificadas com aumento significativo em 2008: 4765489 pixels
+2024-09-02 13:09:48,570 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_2007_2008.png
+2024-09-02 13:09:48,772 - INFO - Métricas de Fragmentação 2008:
+2024-09-02 13:09:48,772 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:48,772 - INFO - Métricas de Fragmentação 2009:
+2024-09-02 13:09:48,772 - INFO - Número de fragmentos: 177303, Área total: 4720578 pixels
+2024-09-02 13:09:48,772 - INFO - Diferença no número de fragmentos (2009 - 2008): 177303
+2024-09-02 13:09:48,853 - INFO - Áreas identificadas com aumento significativo em 2009: 4720578 pixels
+2024-09-02 13:09:50,256 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_2008_2009.png
+2024-09-02 13:09:50,456 - INFO - Métricas de Fragmentação 2009:
+2024-09-02 13:09:50,456 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:50,456 - INFO - Métricas de Fragmentação 2010:
+2024-09-02 13:09:50,456 - INFO - Número de fragmentos: 178360, Área total: 4683659 pixels
+2024-09-02 13:09:50,456 - INFO - Diferença no número de fragmentos (2010 - 2009): 178360
+2024-09-02 13:09:50,536 - INFO - Áreas identificadas com aumento significativo em 2010: 4683659 pixels
+2024-09-02 13:09:51,789 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_2009_2010.png
+2024-09-02 13:09:54,799 - INFO - Métricas de Fragmentação 2010:
+2024-09-02 13:09:54,799 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:54,799 - INFO - Métricas de Fragmentação 2011:
+2024-09-02 13:09:54,799 - INFO - Número de fragmentos: 179555, Área total: 4640329 pixels
+2024-09-02 13:09:54,799 - INFO - Diferença no número de fragmentos (2011 - 2010): 179555
+2024-09-02 13:09:54,893 - INFO - Áreas identificadas com aumento significativo em 2011: 4640329 pixels
+2024-09-02 13:09:56,298 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_2010_2011.png
+2024-09-02 13:09:56,499 - INFO - Métricas de Fragmentação 2011:
+2024-09-02 13:09:56,499 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:56,499 - INFO - Métricas de Fragmentação 2012:
+2024-09-02 13:09:56,499 - INFO - Número de fragmentos: 180824, Área total: 4596262 pixels
+2024-09-02 13:09:56,499 - INFO - Diferença no número de fragmentos (2012 - 2011): 180824
+2024-09-02 13:09:56,585 - INFO - Áreas identificadas com aumento significativo em 2012: 4596262 pixels
+2024-09-02 13:09:57,897 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_2011_2012.png
+2024-09-02 13:09:58,110 - INFO - Métricas de Fragmentação 2012:
+2024-09-02 13:09:58,110 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:58,110 - INFO - Métricas de Fragmentação 2013:
+2024-09-02 13:09:58,110 - INFO - Número de fragmentos: 181640, Área total: 4544407 pixels
+2024-09-02 13:09:58,110 - INFO - Diferença no número de fragmentos (2013 - 2012): 181640
+2024-09-02 13:09:58,192 - INFO - Áreas identificadas com aumento significativo em 2013: 4544407 pixels
+2024-09-02 13:09:59,549 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_2012_2013.png
+2024-09-02 13:09:59,754 - INFO - Métricas de Fragmentação 2013:
+2024-09-02 13:09:59,754 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:09:59,754 - INFO - Métricas de Fragmentação 2014:
+2024-09-02 13:09:59,754 - INFO - Número de fragmentos: 182504, Área total: 4499985 pixels
+2024-09-02 13:09:59,754 - INFO - Diferença no número de fragmentos (2014 - 2013): 182504
+2024-09-02 13:09:59,842 - INFO - Áreas identificadas com aumento significativo em 2014: 4499985 pixels
+2024-09-02 13:10:01,169 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_2013_2014.png
+2024-09-02 13:10:04,466 - INFO - Métricas de Fragmentação 2014:
+2024-09-02 13:10:04,467 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:10:04,467 - INFO - Métricas de Fragmentação 2015:
+2024-09-02 13:10:04,467 - INFO - Número de fragmentos: 183179, Área total: 4457912 pixels
+2024-09-02 13:10:04,467 - INFO - Diferença no número de fragmentos (2015 - 2014): 183179
+2024-09-02 13:10:04,561 - INFO - Áreas identificadas com aumento significativo em 2015: 4457912 pixels
+2024-09-02 13:10:06,006 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_2014_2015.png
+2024-09-02 13:10:06,223 - INFO - Métricas de Fragmentação 2015:
+2024-09-02 13:10:06,223 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:10:06,223 - INFO - Métricas de Fragmentação 2016:
+2024-09-02 13:10:06,223 - INFO - Número de fragmentos: 184030, Área total: 4421261 pixels
+2024-09-02 13:10:06,223 - INFO - Diferença no número de fragmentos (2016 - 2015): 184030
+2024-09-02 13:10:06,328 - INFO - Áreas identificadas com aumento significativo em 2016: 4421261 pixels
+2024-09-02 13:10:07,629 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_2015_2016.png
+2024-09-02 13:10:07,859 - INFO - Métricas de Fragmentação 2016:
+2024-09-02 13:10:07,859 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:10:07,859 - INFO - Métricas de Fragmentação 2017:
+2024-09-02 13:10:07,859 - INFO - Número de fragmentos: 185022, Área total: 4384288 pixels
+2024-09-02 13:10:07,859 - INFO - Diferença no número de fragmentos (2017 - 2016): 185022
+2024-09-02 13:10:07,955 - INFO - Áreas identificadas com aumento significativo em 2017: 4384288 pixels
+2024-09-02 13:10:09,290 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_2016_2017.png
+2024-09-02 13:10:09,529 - INFO - Métricas de Fragmentação 2017:
+2024-09-02 13:10:09,529 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:10:09,529 - INFO - Métricas de Fragmentação 2018:
+2024-09-02 13:10:09,529 - INFO - Número de fragmentos: 186448, Área total: 4341828 pixels
+2024-09-02 13:10:09,529 - INFO - Diferença no número de fragmentos (2018 - 2017): 186448
+2024-09-02 13:10:09,615 - INFO - Áreas identificadas com aumento significativo em 2018: 4341828 pixels
+2024-09-02 13:10:10,971 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_2017_2018.png
+2024-09-02 13:10:14,162 - INFO - Métricas de Fragmentação 2018:
+2024-09-02 13:10:14,162 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:10:14,162 - INFO - Métricas de Fragmentação 2019:
+2024-09-02 13:10:14,162 - INFO - Número de fragmentos: 186816, Área total: 4297732 pixels
+2024-09-02 13:10:14,162 - INFO - Diferença no número de fragmentos (2019 - 2018): 186816
+2024-09-02 13:10:14,257 - INFO - Áreas identificadas com aumento significativo em 2019: 4297732 pixels
+2024-09-02 13:10:15,822 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_2018_2019.png
+2024-09-02 13:10:16,060 - INFO - Métricas de Fragmentação 2019:
+2024-09-02 13:10:16,060 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:10:16,060 - INFO - Métricas de Fragmentação 2020:
+2024-09-02 13:10:16,060 - INFO - Número de fragmentos: 187263, Área total: 4277551 pixels
+2024-09-02 13:10:16,060 - INFO - Diferença no número de fragmentos (2020 - 2019): 187263
+2024-09-02 13:10:16,153 - INFO - Áreas identificadas com aumento significativo em 2020: 4277551 pixels
+2024-09-02 13:10:17,563 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_2019_2020.png
+2024-09-02 13:10:17,770 - INFO - Métricas de Fragmentação 2020:
+2024-09-02 13:10:17,770 - INFO - Número de fragmentos: 0, Área total: 0 pixels
+2024-09-02 13:10:17,770 - INFO - Métricas de Fragmentação 2021:
+2024-09-02 13:10:17,770 - INFO - Número de fragmentos: 187818, Área total: 4267192 pixels
+2024-09-02 13:10:17,770 - INFO - Diferença no número de fragmentos (2021 - 2020): 187818
+2024-09-02 13:10:17,855 - INFO - Áreas identificadas com aumento significativo em 2021: 4267192 pixels
+2024-09-02 13:10:19,215 - INFO - Imagem salva em: ./data/mapbiomas/fragmentacao\fragmentacao_2020_2021.png
+2024-09-02 13:11:40,257 - INFO - Nomes dos arquivos encontrados:
+2024-09-02 13:11:40,258 - INFO - mapbiomas_1986.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_1987.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_1988.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_1989.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_1990.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_1991.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_1992.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_1993.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_1994.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_1995.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_1996.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_1997.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_1998.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_1999.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_2000.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_2001.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_2002.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_2003.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_2004.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_2005.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_2006.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_2007.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_2008.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_2009.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_2010.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_2011.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_2012.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_2013.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_2014.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_2015.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_2016.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_2017.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_2018.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_2019.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_2020.tif
+2024-09-02 13:11:40,258 - INFO - mapbiomas_2021.tif
+2024-09-02 13:15:50,484 - WARNING - MovieWriter imagemagick unavailable; using Pillow instead.
+2024-09-02 13:15:50,484 - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
+2024-09-02 13:19:31,500 - WARNING - Sleeping 1.45 seconds before retry 1 of 5 for request: POST https://earthengine.googleapis.com/v1/projects/analise-satelite-projeto-01/value:compute?prettyPrint=false&alt=json, after ('Connection aborted.', TimeoutError(10060, 'Uma tentativa de conexão falhou porque o componente conectado não respondeu\r\ncorretamente após um período de tempo ou a conexão estabelecida falhou\r\nporque o host conectado não respondeu', None, 10060, None))
+2024-09-02 13:19:33,619 - INFO - Propriedades disponíveis na FeatureCollection:
+2024-09-02 13:19:33,619 - INFO - LEVEL_1
+2024-09-02 13:19:33,619 - INFO - NAME_PT_BR
+2024-09-02 13:19:33,619 - INFO - COUNTRY
+2024-09-02 13:19:33,619 - INFO - CATEGORY
+2024-09-02 13:19:33,619 - INFO - VERSION
+2024-09-02 13:19:33,619 - INFO - SOURCE
+2024-09-02 13:19:33,619 - INFO - FEATURE_ID
+2024-09-02 13:19:33,619 - INFO - CATEGORY_N
+2024-09-02 13:19:33,619 - INFO - system:index
+2024-09-02 13:19:33,619 - INFO - NAME
